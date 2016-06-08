@@ -1,0 +1,14 @@
+<lcgdict>
+  <class name="DiamondDigi" ClassVersion="4">
+   <version ClassVersion="4" checksum="3701195360"/>
+   <version ClassVersion="3" checksum="2833097793"/>
+    <version ClassVersion="2" checksum="3444194306"/>
+  </class>
+  <class name="edm::DetSet<DiamondDigi>"/>
+  <class name="std::vector<edm::DetSet<DiamondDigi> >"/>
+  <class name="std::vector<DiamondDigi>"/>
+  <class name="edm::DetSetVector<DiamondDigi>"/>
+  <class name="edm::Wrapper<edm::DetSet<DiamondDigi> >"/>
+  <class name="edm::Wrapper<edm::DetSetVector<DiamondDigi> >"/>
+
+</lcgdict>
